@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F0D58881E43275D00676855 /* MarcelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F0D58871E43275D00676855 /* MarcelViewController.m */; };
 		DD488AC51E4326AB002EF04C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DD488AC41E4326AB002EF04C /* main.m */; };
 		DD488AC81E4326AB002EF04C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DD488AC71E4326AB002EF04C /* AppDelegate.m */; };
 		DD488ACB1E4326AB002EF04C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DD488ACA1E4326AB002EF04C /* ViewController.m */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1F0D58861E43275D00676855 /* MarcelViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MarcelViewController.h; sourceTree = "<group>"; };
+		1F0D58871E43275D00676855 /* MarcelViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MarcelViewController.m; sourceTree = "<group>"; };
 		DD488AC01E4326AB002EF04C /* mergeTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mergeTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD488AC41E4326AB002EF04C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		DD488AC61E4326AB002EF04C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -67,6 +70,8 @@
 				DD488AD11E4326AB002EF04C /* LaunchScreen.storyboard */,
 				DD488AD41E4326AB002EF04C /* Info.plist */,
 				DD488AC31E4326AB002EF04C /* Supporting Files */,
+				1F0D58861E43275D00676855 /* MarcelViewController.h */,
+				1F0D58871E43275D00676855 /* MarcelViewController.m */,
 			);
 			path = mergeTest;
 			sourceTree = "<group>";
@@ -151,6 +156,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F0D58881E43275D00676855 /* MarcelViewController.m in Sources */,
 				DD488ACB1E4326AB002EF04C /* ViewController.m in Sources */,
 				DD488AC81E4326AB002EF04C /* AppDelegate.m in Sources */,
 				DD488AC51E4326AB002EF04C /* main.m in Sources */,
@@ -310,6 +316,7 @@
 				DD488AD91E4326AB002EF04C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
