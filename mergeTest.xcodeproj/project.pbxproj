@@ -115,7 +115,6 @@
 				TargetAttributes = {
 					DD488ABF1E4326AB002EF04C = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 34R34E8FHV;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -277,7 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 34R34E8FHV;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = mergeTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.VadimPlasiciuc.mergeTest;
@@ -289,7 +288,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 34R34E8FHV;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = mergeTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.VadimPlasiciuc.mergeTest;
