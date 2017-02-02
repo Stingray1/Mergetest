@@ -44,10 +44,10 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
         </scene>
-        <!--View Controller-->
+        <!--Vadim View Controller-->
         <scene sceneID="9F6-GJ-aV5">
             <objects>
-                <viewController id="CpW-5q-vbP" sceneMemberID="viewController">
+                <viewController id="CpW-5q-vbP" customClass="VadimViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="r0m-Lg-w0k"/>
                         <viewControllerLayoutGuide type="bottom" id="zZz-gI-LWH"/>

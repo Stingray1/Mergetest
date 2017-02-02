@@ -14,6 +14,7 @@
 		DD488ACE1E4326AB002EF04C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD488ACC1E4326AB002EF04C /* Main.storyboard */; };
 		DD488AD01E4326AB002EF04C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD488ACF1E4326AB002EF04C /* Assets.xcassets */; };
 		DD488AD31E4326AB002EF04C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD488AD11E4326AB002EF04C /* LaunchScreen.storyboard */; };
+		DD8579801E432DF50094DBB2 /* VadimViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DD85797F1E432DF50094DBB2 /* VadimViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		DD488ACF1E4326AB002EF04C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD488AD21E4326AB002EF04C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD488AD41E4326AB002EF04C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DD85797E1E432DF50094DBB2 /* VadimViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VadimViewController.h; sourceTree = "<group>"; };
+		DD85797F1E432DF50094DBB2 /* VadimViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VadimViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				DD488AC31E4326AB002EF04C /* Supporting Files */,
 				1F0D58861E43275D00676855 /* MarcelViewController.h */,
 				1F0D58871E43275D00676855 /* MarcelViewController.m */,
+				DD85797E1E432DF50094DBB2 /* VadimViewController.h */,
+				DD85797F1E432DF50094DBB2 /* VadimViewController.m */,
 			);
 			path = mergeTest;
 			sourceTree = "<group>";
@@ -157,6 +162,7 @@
 			files = (
 				1F0D58881E43275D00676855 /* MarcelViewController.m in Sources */,
 				DD488ACB1E4326AB002EF04C /* ViewController.m in Sources */,
+				DD8579801E432DF50094DBB2 /* VadimViewController.m in Sources */,
 				DD488AC81E4326AB002EF04C /* AppDelegate.m in Sources */,
 				DD488AC51E4326AB002EF04C /* main.m in Sources */,
 			);
