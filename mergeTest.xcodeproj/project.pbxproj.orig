@@ -78,10 +78,13 @@
 				DD488AC31E4326AB002EF04C /* Supporting Files */,
 				1F0D58861E43275D00676855 /* MarcelViewController.h */,
 				1F0D58871E43275D00676855 /* MarcelViewController.m */,
+<<<<<<< HEAD
 				1F0D58891E432DCD00676855 /* marcel2ViewController.h */,
 				1F0D588A1E432DCD00676855 /* marcel2ViewController.m */,
+=======
 				DD85797E1E432DF50094DBB2 /* VadimViewController.h */,
 				DD85797F1E432DF50094DBB2 /* VadimViewController.m */,
+>>>>>>> 76b17ce687e4cc34e4ef176500911974c503b05f
 			);
 			path = mergeTest;
 			sourceTree = "<group>";
@@ -167,8 +170,11 @@
 			files = (
 				1F0D58881E43275D00676855 /* MarcelViewController.m in Sources */,
 				DD488ACB1E4326AB002EF04C /* ViewController.m in Sources */,
+<<<<<<< HEAD
 				1F0D588B1E432DCD00676855 /* marcel2ViewController.m in Sources */,
+=======
 				DD8579801E432DF50094DBB2 /* VadimViewController.m in Sources */,
+>>>>>>> 76b17ce687e4cc34e4ef176500911974c503b05f
 				DD488AC81E4326AB002EF04C /* AppDelegate.m in Sources */,
 				DD488AC51E4326AB002EF04C /* main.m in Sources */,
 			);
